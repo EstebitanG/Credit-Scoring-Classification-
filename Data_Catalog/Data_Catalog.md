@@ -4,7 +4,7 @@ Descripción General
 
 Se detallan las columnas existentes en los dataset (train.csv y test.csv), las cuales fueron procesadas para el posterior entrenamiento de modelos.
 
-1. Train.csv
+### Train.csv
 
 Propósito: almacena datos de panel sobre clientes de una entidad finaciera. Los datos corresponden a información sociodemográfica básica y de comportamiento de crédito histórica.
 
