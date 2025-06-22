@@ -42,7 +42,7 @@ Columnas:
 
 ### Columnas derivadas del split de Type_of_loan
 
-Dentro del proyecto, es hace necesario una subdivisión de la columna 'Type_of_Loan', la cual es multivalor. Sin embargo, las nuevas columnas creadas no corresponden a una variable binaria (bool), más bien es object, para incluir los casos desconocidos ('Unknown'). Cada nombre de la columna especifica el tipo de crédito.
+Dentro del proyecto, es necesario hacer una subdivisión de la columna 'Type_of_Loan', la cual es multivalor. Sin embargo, las nuevas columnas creadas no corresponden a una variable binaria (bool), más bien es object, para incluir los casos desconocidos ('Unknown'). Cada nombre de la columna especifica el tipo de crédito.
 
 | Columna | Tipo de Dato (Python) | Descripción |
 | --- | --- | --- |
