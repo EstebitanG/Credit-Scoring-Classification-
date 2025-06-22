@@ -2,7 +2,7 @@
 Este proyecto forma parte de mi portfolio de Data Analytics y Data Science, donde se usa el lenguaje de programación Python aplicando técnicas estadísticas y de Machine Learning para clasificar el comportamiento crediticio de personas según variables sociodemográficas y comportamiento pasado.
 
 # Descripción General 
-Este proyecto busca clasificar personas en 3 categorías: 'Poor', 'Standard' y 'Good', las cuales describen el comportamiento crediticio de una persona en base a distintas variables (tanto numéricas como categóricas) asociadas al comportamiento de crédito y variables sociodemográficas. En este caso, los datos disponibles correspondían a datos de panel (información de los mismos clientes a través del tiempo) lo que permitía aprender comportamiento crediticio pasado, para luego procesar la información y clasificar nuevamente a estos clientes considerando los cambios en las variables mencionadas.
+Este proyecto busca clasificar personas en 3 categorías: 'Poor', 'Standard' y 'Good', las cuales describen el comportamiento crediticio de una persona en base a distintas variables (tanto numéricas como categóricas) asociadas al comportamiento de crédito actual y variables sociodemográficas. En este caso, los datos disponibles correspondían a datos de panel (información de los mismos clientes a través del tiempo) lo que permitía aprender comportamiento crediticio pasado, para luego procesar la información y clasificar nuevamente a estos clientes considerando los cambios en las variables mencionadas.
 
 Los datos fueron sacados del sitio web Kaggle: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
