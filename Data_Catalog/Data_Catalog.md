@@ -33,7 +33,7 @@ Columnas:
 | Outstanding_Debt | float64 | Saldo total de deuda pendiente del cliente, en dólares. |
 | Credit_Utilization_Ratio | float64 | Ratio de utilización de crédito: (saldo pendiente / límite total) * 100. Normalmente entre 25% y 45%. |
 | Credit_History_Age | float64 | Antigüedad del historial crediticio en meses (procesado desde su forma original texto con años y meses). |
-| Payment_of_Min_Amount | object | Si el cliente paga el mínimo en sus tarjetas. Valores: Yes, No, NM (requiere análisis o limpieza). |
+| Payment_of_Min_Amount | object | Si el cliente paga el mínimo en sus tarjetas. Valores: Yes, No, NM (Not Mentioned). |
 | Total_EMI_per_month | float64 | Cuotas mensuales totales pagadas por el cliente (capital + intereses). |
 | Amount_invested_monthly | float64 | Monto ahorrado mensualmente por el cliente, en dólares. |
 | Payment_Behaviour | object | Comportamiento de pago. Ej: 'Low_spent_Small_value_payments'. |
@@ -41,6 +41,8 @@ Columnas:
 | Credit_Score | object | Etiqueta del puntaje crediticio. Clases: Poor, Standard, Good. (Variable objetivo). |
 
 ### Columnas derivadas del split de Type_of_loan
+
+Dentro del proyecto, es hace necesario una subdivisión de la columna 'Type_of_Loan', la cual es multivalor. Sin embargo, las nuevas columnas creadas no corresponden a una variable binaria (bool), más bien es object, para incluir los casos desconocidos ('Unknown'). Cada nombre de la columna especifica el tipo de crédito.
 
 | Columna | Tipo de Dato (Python) | Descripción |
 | --- | --- | --- |
