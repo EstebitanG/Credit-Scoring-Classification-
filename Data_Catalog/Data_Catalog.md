@@ -1,4 +1,4 @@
-Diccionario de datos para proyecto de Credit Scoring
+# Diccionario de datos para proyecto de Credit Scoring
 
 Descripción General
 
