@@ -12,7 +12,7 @@ Columnas:
 
 | Columna | Tipo de Dato (Python) | Descripción |
 | --- | --- | --- |
-| ID | object | Código identificador del registro, distinto al Customer_ID. Similar a surrogate keys en SQL (ej: '0x160a'). |
+| ID | object | Código identificador del registro, distinto al Customer_ID (ej: '0x160a'). |
 | Customer_ID | object | Identificador único del cliente, que puede repetirse por mes (ej: 'CUS_0xd40'). |
 | Month | object | Mes del registro (ej: 'August'). Útil para trabajar con datos de panel. |
 | Name | object | Nombre completo del cliente. |
