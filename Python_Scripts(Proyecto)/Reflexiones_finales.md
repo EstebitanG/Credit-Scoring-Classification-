@@ -8,4 +8,4 @@ El punto fuerte de este proyecto que representó el gran desafío fue justamente
 
 Además, ahondo tanto conceptualmente como en la implementación de los modelos de clasificación. Sensibilizo sus parámetros para llegar al mejor modelo posible en base a las métricas de evaluación mediante validación cruzada. Aplico tanto modelos básicos como modelos más potentes y populares en la industria para resolver el problema de clasificación, teniendo diversos resultados con distintas interpretaciones (expuestas en el proyecto).
 
-Finalmente, puedo destacar que la finalización de este proyecto logra una mejoría en mi entendimiento del problema de Clasificación en Machine Learning, sus aplicaciones prácticas, y los desafíos respecto a las demás temáticas del área (Regresión y Agrupación - Clustering).
+Finalmente, puedo destacar que la finalización de este proyecto logra una mejoría en mi entendimiento del problema de Clasificación en Machine Learning, sus aplicaciones prácticas, y los desafíos respecto a las demás temáticas del aprendizaje supervisado y no supervisado.
