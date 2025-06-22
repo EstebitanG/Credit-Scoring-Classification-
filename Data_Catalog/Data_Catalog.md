@@ -2,7 +2,7 @@ Diccionario de datos para proyecto de Credit Scoring
 
 Descripción General
 
-Se detallan las columnas existentes en los dataset originales (train.csv y test.csv), las cuales fueron procesadas para el posterior entrenamiento de modelos.
+Se detallan las columnas existentes en los dataset (train.csv y test.csv), las cuales fueron procesadas para el posterior entrenamiento de modelos.
 
 1. Train.csv
 
