@@ -49,9 +49,9 @@ Dentro del proyecto, es necesario hacer una subdivisión de la columna 'Type_of_
 | Payday Loan | object | Indica si el cliente tiene este tipo de crédito. |
 | Auto Loan | object | Indica si el cliente tiene este tipo de crédito. |
 | Credit-Builder Loan | object | Indica si el cliente tiene este tipo de crédito. |
-| Not Specified | object | Presencia de préstamos sin especificación clara. |
 | Debt Consolidation Loan | object | Indica si el cliente tiene este tipo de crédito. |
 | Student Loan | object | Indica si el cliente tiene este tipo de crédito. |
 | Mortgage Loan | object | Indica si el cliente tiene este tipo de crédito. |
 | Personal Loan | object | Indica si el cliente tiene este tipo de crédito. |
 | Home Equity Loan | object | Indica si el cliente tiene este tipo de crédito. |
+| Not Specified | object | Presencia de préstamos sin especificación clara. |
