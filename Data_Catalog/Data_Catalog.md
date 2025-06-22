@@ -55,3 +55,7 @@ Dentro del proyecto, es necesario hacer una subdivisión de la columna 'Type_of_
 | Personal Loan | object | Indica si el cliente tiene este tipo de crédito. |
 | Home Equity Loan | object | Indica si el cliente tiene este tipo de crédito. |
 | Not Specified | object | Presencia de préstamos sin especificación clara. |
+
+### Test.csv
+
+Las columnas de test.csv son exactamente las mismas que train.csv, a excepción de una: 'Credit_Score', la cual es justamente la variable objetivo (y) que buscamos predecir.
