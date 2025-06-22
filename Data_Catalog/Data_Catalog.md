@@ -58,4 +58,4 @@ Dentro del proyecto, es necesario hacer una subdivisión de la columna 'Type_of_
 
 ### Test.csv
 
-Las columnas de test.csv son exactamente las mismas que train.csv, a excepción de una: 'Credit_Score', la cual es justamente la variable objetivo (y) que buscamos predecir.
+Las columnas de test.csv son exactamente las mismas que train.csv, a excepción de una: 'Credit_Score', la cual es inexistente en este dataset, justamente al ser la variable objetivo (y) que buscamos predecir.
