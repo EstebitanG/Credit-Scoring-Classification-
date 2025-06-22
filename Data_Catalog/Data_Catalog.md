@@ -6,7 +6,7 @@ Se detallan las columnas existentes en los dataset (train.csv y test.csv), las c
 
 ### Train.csv
 
-Propósito: almacena datos de panel sobre clientes de una entidad finaciera. Los datos corresponden a información sociodemográfica básica y de comportamiento de crédito histórica.
+Propósito: almacena datos de panel sobre clientes de una entidad finaciera, desde los meses de enero a agosto. Los datos corresponden a información sociodemográfica básica y de comportamiento de crédito histórica.
 
 Columnas:
 
@@ -58,4 +58,4 @@ Dentro del proyecto, es necesario hacer una subdivisión de la columna 'Type_of_
 
 ### Test.csv
 
-Las columnas de test.csv son exactamente las mismas que train.csv, a excepción de una: 'Credit_Score', la cual es inexistente en este dataset, justamente al ser la variable objetivo (y) que buscamos predecir.
+Contiene nueva información de los mismos clientes (al ser datos de panel) para los meses de septiembre a diciembre. En cuanto a las columnas de test.csv, son exactamente las mismas que train.csv, a excepción de una: 'Credit_Score', la cual es inexistente en este dataset, justamente al ser la variable objetivo (y) que buscamos predecir.
