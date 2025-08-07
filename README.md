@@ -10,5 +10,6 @@ Primeramente se realizó la importación de los archivos csv a Python (train y t
 
 Para este proyecto se utilizó principalmente Python para cumplir con la ruta de analista y científico de datos, desde la importación de la información, su procesamiento, aplicación de modelos y exportación de la clasificación.
 
-<img width="427" alt="Portada" src="https://github.com/user-attachments/assets/fc01f8cf-ff5b-4c84-be81-7ab1eb0e484b" />
+<img width="2828" height="1671" alt="credit_score_portada" src="https://github.com/user-attachments/assets/257070bc-02b4-4c10-aaac-45c60eb19569" />
+
 
